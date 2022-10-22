@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: url(/fundo002.jpg) no-repeat center center;
+    background-size: cover;
+    height: 92vh;
+
+}
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aquamarine;
+    list-style: none;
+
+
+}
+.nav-list li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
